@@ -1,0 +1,21 @@
+{
+  "name": "bti_practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "node-sass": "^4.11.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "sass": "node-sass -w scss/ -o css/ -- resursive"
+  },
+  "keywords": [
+    "BTI",
+    "-",
+    "Kamen",
+    "Kanchev"
+  ],
+  "author": "KKanchev",
+  "license": "ISC"
+}
